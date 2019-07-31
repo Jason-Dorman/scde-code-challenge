@@ -1,2 +1,2 @@
-# scde-code-challenge-
+# scde-code-challenge
 python aptitude test
